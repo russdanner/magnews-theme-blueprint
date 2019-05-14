@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category</content-type>	<display-template>/templates/web/page-category.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3403</objectGroupId>
+	<objectId>3403f3e7-4b96-ca8b-b365-421b16fc509f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>art</folder-name>
+	<internal-name>art</internal-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2019-05-14T16:17:55.860Z</createdDate>
+	<createdDate_dt>2019-05-14T16:17:55.860Z</createdDate_dt>
+	<lastModifiedDate>2019-05-14T16:17:55.860Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-05-14T16:17:55.860Z</lastModifiedDate_dt>
+</page>
