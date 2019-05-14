@@ -22,4 +22,12 @@
 
 <site>
     
+    <!-- Job properties -->
+    <jobs>
+        <jobFolder>
+            <path>/scripts/jobs/every-minute</path>
+            <cronExpression>0 0/1 * * * ?</cronExpression>
+        </jobFolder>
+    </jobs>    
+    
 </site>
