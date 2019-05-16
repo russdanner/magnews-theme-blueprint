@@ -88,13 +88,7 @@
 					</li>
 
 					<li class="left-topbar">
-						<a href="#" class="left-topbar-item">
-							About
-						</a>
-
-						<a href="#" class="left-topbar-item">
-							Contact
-						</a>
+	                    <@renderNavigation "/site/website", 1 />
 
 						<a href="#" class="left-topbar-item">
 							Sing up
@@ -176,8 +170,7 @@
 							<li><a href="blog-list-02.html">Blog List Sidebar v2</a></li>
 							<li><a href="blog-detail-01.html">Blog Detail Sidebar</a></li>
 							<li><a href="blog-detail-02.html">Blog Detail No Sidebar</a></li>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="contact.html">Contact Us</a></li>
+	                        <@renderNavigation "/site/website", 1 />
 						</ul>
 
 						<span class="arrow-main-menu-m">
@@ -2230,8 +2223,7 @@
 									<li><a href="blog-list-02.html">Blog List Sidebar v2</a></li>
 									<li><a href="blog-detail-01.html">Blog Detail Sidebar</a></li>
 									<li><a href="blog-detail-02.html">Blog Detail No Sidebar</a></li>
-									<li><a href="about.html">About Us</a></li>
-									<li><a href="contact.html">Contact Us</a></li>
+	                                <@renderNavigation "/site/website", 1 />>
 								</ul>
 							</li>
 						</ul>
