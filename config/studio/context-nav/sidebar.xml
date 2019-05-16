@@ -105,6 +105,23 @@
                                     </params>
                                 </modulehook>
 
+                            <!-- Site IA Pages -->
+                                <modulehook>
+                                    <name>wcm-root-folder</name>                                    
+                                    <params>
+                                        <label>Pages</label>
+                                        <path>/site/website</path>
+                                       <module-icon-open>
+                                          <class>fa-newspaper</class>
+                                        </module-icon-open>
+                                        <module-icon-closed>
+                                          <class>fa-newspaper</class>
+                                        </module-icon-closed>
+                                        <showRootItem>true</showRootItem>
+                                        <onClick>preview</onClick>
+                                    </params>
+                                </modulehook>
+
                                 <!-- Site IA Pages -->
                                 <modulehook>
                                     <name>wcm-root-folder</name>                                    
@@ -121,7 +138,7 @@
                                     <name>wcm-root-folder</name>                                    
                                     <params>
                                         <label>Components</label>
-                                        <path>/site</path>
+                                        <path>/site/components</path>
                                         <showRootItem>true</showRootItem>
                                     </params>
                                 </modulehook>
