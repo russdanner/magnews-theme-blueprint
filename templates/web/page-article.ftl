@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 	<title>Blog Detail No Sidebar</title>
-	<#include "/templates/web/common/header.ftl" />
+	<#include "/templates/web/common/head.ftl" />
 </head>
 <body class="animsition">
 	
