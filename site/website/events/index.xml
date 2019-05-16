@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category</content-type>	<display-template>/templates/web/page-category.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4238</objectGroupId>
+	<objectId>4238f1a5-ed9c-cfc4-50eb-5791b26900ac</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>events</folder-name>
+	<internal-name>Events</internal-name>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>3000</orderDefault_f>
+	<createdDate>2019-05-16T18:54:36.264Z</createdDate>
+	<createdDate_dt>2019-05-16T18:54:36.264Z</createdDate_dt>
+	<lastModifiedDate>2019-05-16T18:54:36.264Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-05-16T18:54:36.264Z</lastModifiedDate_dt>
+</page>
