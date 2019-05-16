@@ -67,6 +67,7 @@
                 <pattern>/site/component-bindings/([^&lt;]+)\.xml</pattern>
                 <pattern>/site/indexes/([^&lt;]+)\.xml</pattern>
                 <pattern>/site/resources/([^&lt;]+)\.xml</pattern>
+                <pattern>/site/articles/([^&lt;]+)\.xml</pattern>
             </pattern-group>
 
             <pattern-group name="asset">
