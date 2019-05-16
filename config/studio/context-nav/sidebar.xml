@@ -112,7 +112,7 @@
                                         <label>Articles</label>
                                         <path>/site/articles</path>
                                        <module-icon-open>
-                                          <class>fa-newspaper</class>
+                                          <class>fa-file</class>
                                         </module-icon-open>
                                         <module-icon-closed>
                                           <class>fa-newspaper</class>
