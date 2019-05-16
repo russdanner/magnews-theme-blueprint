@@ -412,7 +412,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-assets/item/{objectGroupId}/{objectId}</value>
+							<value>/static-assets/item/{parentPath}</value>
 								<type>undefined</type>
 						</property>
 					</properties>
