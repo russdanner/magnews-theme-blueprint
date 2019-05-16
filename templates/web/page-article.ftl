@@ -273,7 +273,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-05.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-05.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -657,7 +657,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-25.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-25.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -688,7 +688,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-27.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-27.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1214,7 +1214,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-36.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-36.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1245,7 +1245,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-37.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-37.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1276,7 +1276,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-38.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-38.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1311,7 +1311,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-39.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-39.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1342,7 +1342,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-41.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-41.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1373,7 +1373,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-42.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-42.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1404,7 +1404,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-40.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-40.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1452,7 +1452,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-10.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-10.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1483,7 +1483,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-11.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-11.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1514,7 +1514,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-26.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-26.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1545,7 +1545,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-34.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-34.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1580,7 +1580,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-35.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-35.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1611,7 +1611,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-36.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-36.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1642,7 +1642,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-37.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-37.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1673,7 +1673,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-38.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-38.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1721,7 +1721,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-39.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-39.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1752,7 +1752,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-41.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-41.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1783,7 +1783,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-42.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-42.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1814,7 +1814,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-40.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-40.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1849,7 +1849,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-35.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-35.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1880,7 +1880,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-36.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-36.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1911,7 +1911,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-37.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-37.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1942,7 +1942,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-38.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-38.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -1989,7 +1989,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-25.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-25.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2020,7 +2020,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-27.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-27.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2051,7 +2051,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-26.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-26.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2082,7 +2082,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-34.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-34.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2129,7 +2129,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-50.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-50.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2160,7 +2160,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-08.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-08.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2191,7 +2191,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-07.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-07.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2222,7 +2222,7 @@
 													<!-- Item post -->	
 													<div>
 														<a href="blog-detail-01.html" class="wrap-pic-w hov1 trans-03">
-															<img src="images/post-06.jpg" alt="IMG">
+															<img src="/static-assets/app/images/post-06.jpg" alt="IMG">
 														</a>
 
 														<div class="p-t-10">
@@ -2436,7 +2436,7 @@
 						<!-- Banner -->
 						<div class="flex-c-s">
 							<a href="#">
-								<img class="max-w-full" src="images/banner-02.jpg" alt="IMG">
+								<img class="max-w-full" src="/static-assets/app/images/banner-02.jpg" alt="IMG">
 							</a>
 						</div>
 					</div>
@@ -2453,7 +2453,7 @@
 					<div class="col-lg-4 p-b-20">
 						<div class="size-h-3 flex-s-c">
 							<a href="index.html">
-								<img class="max-s-full" src="images/icons/logo-02.png" alt="LOGO">
+								<img class="max-s-full" src="/static-assets/app/images/icons/logo-02.png" alt="LOGO">
 							</a>
 						</div>
 
@@ -2500,7 +2500,7 @@
 						<ul>
 							<li class="flex-wr-sb-s p-b-20">
 								<a href="#" class="size-w-4 wrap-pic-w hov1 trans-03">
-									<img src="images/popular-post-01.jpg" alt="IMG">
+									<img src="/static-assets/app/images/popular-post-01.jpg" alt="IMG">
 								</a>
 
 								<div class="size-w-5">
@@ -2518,7 +2518,7 @@
 
 							<li class="flex-wr-sb-s p-b-20">
 								<a href="#" class="size-w-4 wrap-pic-w hov1 trans-03">
-									<img src="images/popular-post-02.jpg" alt="IMG">
+									<img src="/static-assets/app/images/popular-post-02.jpg" alt="IMG">
 								</a>
 
 								<div class="size-w-5">
@@ -2536,7 +2536,7 @@
 
 							<li class="flex-wr-sb-s p-b-20">
 								<a href="#" class="size-w-4 wrap-pic-w hov1 trans-03">
-									<img src="images/popular-post-03.jpg" alt="IMG">
+									<img src="/static-assets/app/images/popular-post-03.jpg" alt="IMG">
 								</a>
 
 								<div class="size-w-5">
