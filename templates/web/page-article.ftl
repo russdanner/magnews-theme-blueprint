@@ -80,7 +80,7 @@
 					<div class="p-r-10 p-r-0-sr991">
 						<!-- Blog Detail -->
 						<div class="p-b-70">
-							${currentArticle.articleBody!""}
+							${currentArticle.articleBody!"CCCC"}
 
 							<!-- Tag -->
 							<div class="flex-s-s p-t-12 p-b-15">
