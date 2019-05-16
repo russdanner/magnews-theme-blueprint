@@ -4,17 +4,17 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>50959a41</objectGroupId>
 	<objectId>50959a41-aa18-4260-baac-96401ead681d</objectId>
-	<file-name>a-better-way-to-artichokes-80f90b1b.xml</file-name>
-	<folder-name>05</folder-name>
-	<internal-name>A Better Way to Artichokes 80f90b1b</internal-name>
-	<title>A Better Way to Artichokes</title>
+	<file-name>foo.xml</file-name>
+	<folder-name/>
+	<internal-name>Foo</internal-name>
+	<title>Foo</title>
 	<thumbnail/>
-	<articleTeaser>&lt;h1 id="link-1610ab71" class="css-fnr6md e1h9rw200" style="margin: 0px auto 16px calc((100% - 600px) / 2); padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 200; font-stretch: inherit; font-size: 2.9375rem; line-height: 3.4375rem; font-family: nyt-cheltenham, georgia, 'times new roman', times, serif; vertical-align: baseline; color: #121212; width: 660px; max-width: none; position: relative; background-color: #ffffff;"&gt;&lt;span class="balancedHeadline" style="margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font: inherit; vertical-align: baseline; display: inline-block; max-width: 499.234px;"&gt;A Better Way to Artichokes&lt;/span&gt;&lt;/h1&gt;</articleTeaser>
+	<articleTeaser>&lt;h1 id="link-1610ab71" class="css-fnr6md e1h9rw200" style="margin: 0px auto 16px calc((100% - 600px) / 2); padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 200; font-stretch: inherit; font-size: 2.9375rem; line-height: 3.4375rem; font-family: nyt-cheltenham, georgia, 'times new roman', times, serif; vertical-align: baseline; color: #121212; width: 660px; max-width: none; position: relative; background-color: #ffffff;"&gt;&lt;span class="balancedHeadline" style="margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font: inherit; vertical-align: baseline; display: inline-block; max-width: 499.234px;"&gt;Foo&lt;/span&gt;&lt;/h1&gt;</articleTeaser>
 	<articleBody/>
 	<createdDate>2019-05-16T19:37:05.896Z</createdDate>
 	<createdDate_dt>2019-05-16T19:37:05.896Z</createdDate_dt>
-	<lastModifiedDate>2019-05-16T19:58:20.468Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-05-16T19:58:20.468Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-05-16T20:05:20.754Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-05-16T20:05:20.754Z</lastModifiedDate_dt>
 	<postedDate>2019-05-16T04:00:00.000Z</postedDate>
 	<featuredImage>/static-assets/item/articles/2019/05/blog-detail-01-6208e04b.jpg</featuredImage>
 	<thumbnailImage>/static-assets/item/7535/75359a14-9694-fd9e-8187-eb20b38f5f56/blog-detail-01.jpg</thumbnailImage>
