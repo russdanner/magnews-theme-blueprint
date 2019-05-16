@@ -39,7 +39,7 @@
 	<!-- Content -->
 	<section class="bg0 p-b-70 p-t-5">
 		<!-- Title -->
-		<div class="bg-img1 size-a-18 how-overlay1" style="background-image: url(${currentArticle.featuredImage});">
+		<div class="bg-img1 size-a-18 how-overlay1" style="background-image: url(${currentArticle.featuredImage!""});">
 			<div class="container h-full flex-col-e-c p-b-58">
 				<a href="#" class="f1-s-10 cl0 hov-cl10 trans-03 text-uppercase txt-center m-b-33">
 					Technology
