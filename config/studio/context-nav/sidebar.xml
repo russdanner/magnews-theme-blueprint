@@ -115,7 +115,7 @@
                                           <class>fa-newspaper-o</class>
                                         </module-icon-open>
                                         <module-icon-closed>
-                                          <class>fa-newspaper</class>
+                                          <class>fa-newspaper-o</class>
                                         </module-icon-closed>
                                         <showRootItem>true</showRootItem>
                                         <onClick>preview</onClick>
