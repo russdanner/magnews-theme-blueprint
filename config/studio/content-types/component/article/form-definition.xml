@@ -26,8 +26,8 @@
 					<type>file-name</type>
 					<id>file-name</id>
 					<iceId></iceId>
-					<title>Component ID</title>
-					<description></description>
+					<title>Article SLUG</title>
+					<description>Unique name for article</description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
