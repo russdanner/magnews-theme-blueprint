@@ -109,8 +109,8 @@
                                 <modulehook>
                                     <name>wcm-root-folder</name>                                    
                                     <params>
-                                        <label>Pages</label>
-                                        <path>/site/website</path>
+                                        <label>Articles</label>
+                                        <path>/site/articles</path>
                                        <module-icon-open>
                                           <class>fa-newspaper</class>
                                         </module-icon-open>
