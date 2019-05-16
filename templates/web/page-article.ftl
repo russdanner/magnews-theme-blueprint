@@ -46,7 +46,7 @@
 				</a>
 
 				<h3 class="f1-l-5 cl0 p-b-16 txt-center respon2">
-					Nulla non interdum metus non laoreet nisi tellus eget aliquam lorem pellentesque
+					TITLE
 				</h3>
 
 				<div class="flex-wr-c-s">
