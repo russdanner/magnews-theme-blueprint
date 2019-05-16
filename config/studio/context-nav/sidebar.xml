@@ -159,6 +159,17 @@
                                     </params>
                                 </modulehook>
 
+                                <!-- Scripts -->
+                                <modulehook>
+                                    <name>wcm-assets-folder</name>                                    
+                                    <params>
+                                        <label>Sources</label>
+                                        <path>/sources</path>
+                                        <showRootItem>true</showRootItem>
+                                        <onClick>none</onClick>
+                                    </params>
+                                </modulehook>                                
+
                                 <!-- Site Config -->
                                 <modulehook>
                                     <name>site-config</name>                                    
