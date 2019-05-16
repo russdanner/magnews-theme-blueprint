@@ -2507,7 +2507,7 @@
 
     <#include "/templates/web/common/footer.ftl" />
 
-
+    <#include "/templates/web/common/scripts.ftl" />
 
 		<@studio.toolSupport/>	
 	</body>
