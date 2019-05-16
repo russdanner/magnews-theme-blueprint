@@ -121,7 +121,7 @@
                                     <name>wcm-root-folder</name>                                    
                                     <params>
                                         <label>Components</label>
-                                        <path>/site/components</path>
+                                        <path>/site</path>
                                         <showRootItem>true</showRootItem>
                                     </params>
                                 </modulehook>
