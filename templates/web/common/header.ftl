@@ -1,3 +1,5 @@
+<#include "/templates/web/navigation/navigation.ftl">
+
 	<!-- Header -->
 	<header>
 		<!-- Header desktop -->
@@ -17,13 +19,8 @@
 							</span>
 						</span>
 
-						<a href="#" class="left-topbar-item">
-							About
-						</a>
+	                    <@renderNavigation "/site/website", 1 />
 
-						<a href="#" class="left-topbar-item">
-							Contact
-						</a>
 
 						<a href="#" class="left-topbar-item">
 							Sing up
