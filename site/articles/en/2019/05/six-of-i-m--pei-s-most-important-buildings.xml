@@ -8,7 +8,7 @@
 	<folder-name/>
 	<internal-name>Six of I.M. Pei’s Most Important Buildings</internal-name>
 	<title>Six of I.M. Pei’s Most Important Buildings</title>
-	<featured_b>false</featured_b>
+	<featured_b>true</featured_b>
 	<featuredImage>/static-assets/item/articles/en/2019/05/16pei-list2-superJumbo.jpg</featuredImage>
 	<thumbnailImage/>
 	<articleTeaser/>
@@ -110,7 +110,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</articleBody>
 	<createdDate>2019-05-17T17:58:50.873Z</createdDate>
 	<createdDate_dt>2019-05-17T17:58:50.873Z</createdDate_dt>
-	<lastModifiedDate>2019-05-17T17:58:50.873Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-05-17T17:58:50.873Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-05-17T18:02:08.670Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-05-17T18:02:08.670Z</lastModifiedDate_dt>
 	<postedDate_dt>2019-05-17T04:00:00.000Z</postedDate_dt>
 </component>
