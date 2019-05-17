@@ -58,7 +58,7 @@
 
 							<h3 class="how1-child2 m-t-14 m-b-10">
 								<a href="blog-detail-01.html" class="how-txt1 size-a-6 f1-l-1 cl0 hov-cl10 trans-03">
-									${article.title}
+									${article.title!""}
 								</a>
 							</h3>
 
