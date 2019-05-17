@@ -45,7 +45,7 @@
 		
 	<!-- Feature post -->
 	<section class="bg0">
-	    <@articleGrid.render(articles) />
+	    <@articleGrid.render articles />
 	</section>
 
 	<!-- Post -->
