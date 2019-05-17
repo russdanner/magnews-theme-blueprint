@@ -77,9 +77,10 @@
 							</span>
 						</div>
 					</div>
+				</#list>	
+					
 				</div>
-	
-                    </#list>
+	       
 					
 					
 <!--
