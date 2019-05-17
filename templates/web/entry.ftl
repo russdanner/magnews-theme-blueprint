@@ -48,7 +48,7 @@
 			<div class="row m-rl--1">
 				<div class="col-md-6 p-rl-1 p-b-2">
 				    <#list articles as article>
-                      <div class="bg-img1 size-a-3 how1 pos-relative" style="background-image: url(${article.thumbnailImage!""});">
+                      <div class="bg-img1 size-a-${article_index}+2 how1 pos-relative" style="background-image: url(${article.thumbnailImage!""});">
 						<a href="blog-detail-01.html" class="dis-block how1-child1 trans-03"></a>
 
 						<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
