@@ -123,7 +123,7 @@
 				</field>
 				<field>
 					<type>date-time</type>
-					<id>postedDate</id>
+					<id>postedDate_dt</id>
 					<iceId></iceId>
 					<title>Posted Date</title>
 					<description></description>
