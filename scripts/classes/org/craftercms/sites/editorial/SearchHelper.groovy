@@ -27,8 +27,8 @@ import org.elasticsearch.search.sort.SortOrder
 
 class SearchHelper {
 
-  static final String ARTICLE_CONTENT_TYPE_QUERY = "content-type:\"/page/article\""
-  static final String[] HIGHLIGHT_FIELDS = ["subject", "sections.item.section_html"]
+  static final String ARTICLE_CONTENT_TYPE_QUERY = "content-type:\"/component/article\""
+  static final String[] HIGHLIGHT_FIELDS = ["subject", "body"]
   static final int DEFAULT_START = 0
   static final int DEFAULT_ROWS = 10
 
@@ -47,7 +47,7 @@ class SearchHelper {
       if(!userTerm.contains(" ")) {
         userTerm = "${userTerm}~1 OR *${userTerm}*"
       }
-      def userTermQuery = "(subject:(${userTerm}) OR sections.item.section_html:(${userTerm}))"
+      def userTermQuery = "(subject:(${userTerm}) OR body:(${userTerm}))"
 
       q = "${q} AND ${userTermQuery}"
     }
@@ -99,7 +99,7 @@ class SearchHelper {
       .query(QueryBuilders.queryStringQuery(q))
       .from(start)
       .size(rows)
-      .sort(new FieldSortBuilder("date_dt").order(SortOrder.DESC))
+      .sort(new FieldSortBuilder("postDate_dt").order(SortOrder.DESC))
     
     def result = elasticsearch.search(new SearchRequest().source(builder))
 
