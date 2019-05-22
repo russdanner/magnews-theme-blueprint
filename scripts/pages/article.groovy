@@ -1,0 +1,1 @@
+templateModel.currentArticle = siteItemService.getSiteItem("/site/articles"+params.id+".xml")
