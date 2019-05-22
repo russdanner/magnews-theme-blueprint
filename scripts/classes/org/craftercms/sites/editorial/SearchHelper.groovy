@@ -153,7 +153,7 @@ class SearchHelper {
             article.articleTeaser = doc.articleTeaser
             article.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
             article.thumbnailImage = doc.thumbnailImage
-            article.articleId = doc["file-name"].replace(".xml", "")
+            article.articleId = article.url
 
         articles << article
       }
