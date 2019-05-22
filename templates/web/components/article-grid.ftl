@@ -2,7 +2,7 @@
     <div class="container">
     	<div class="row m-rl--1">
     		<div class="col-md-6 p-rl-1 p-b-2">
-                  <div class="bg-img1 size-a-3 how1 pos-relative" style="background-image: url(${articles[1].thumbnailImage!""});">
+                  <div <@studio.componentAttr path=articles[1].storeUrl ice=true /> class="bg-img1 size-a-3 how1 pos-relative" style="background-image: url(${articles[1].thumbnailImage!""});">
     				<a href="/article?id=${articles[1].articleId}" class="dis-block how1-child1 trans-03"></a>
     
     				<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
@@ -38,7 +38,7 @@
     		<div class="col-md-6 p-rl-1">
     			<div class="row m-rl--1">
     				<div class="col-12 p-rl-1 p-b-2">
-    					<div class="bg-img1 size-a-4 how1 pos-relative" style="background-image: url(${articles[2].thumbnailImage!""});">
+    					<div <@studio.componentAttr path=articles[2].storeUrl ice=true /> class="bg-img1 size-a-4 how1 pos-relative" style="background-image: url(${articles[2].thumbnailImage!""});">
     						<a href="/article?id=${articles[2].articleId}" class="dis-block how1-child1 trans-03"></a>
     
     						<div class="flex-col-e-s s-full p-rl-25 p-tb-24">
@@ -56,7 +56,7 @@
     				</div>
     
     				<div class="col-sm-6 p-rl-1 p-b-2">
-    					<div class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url(${articles[3].thumbnailImage!""});">
+    					<div <@studio.componentAttr path=articles[3].storeUrl ice=true /> class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url(${articles[3].thumbnailImage!""});">
     						<a href="/article?id=${articles[3].articleId}" class="dis-block how1-child1 trans-03"></a>
     
     						<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
@@ -74,7 +74,7 @@
     				</div>
     
     				<div class="col-sm-6 p-rl-1 p-b-2">
-    					<div class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url(${articles[4].thumbnailImage!""});">
+    					<div <@studio.componentAttr path=articles[4].storeUrl ice=true /> class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url(${articles[4].thumbnailImage!""});">
     						<a href="/article?id=${articles[4].articleId}" class="dis-block how1-child1 trans-03"></a>
     
     						<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
