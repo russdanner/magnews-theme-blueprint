@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar"  dir="rtl" >
 <head>
 	<title>Blog Detail No Sidebar</title>
 	<#include "/templates/web/common/head.ftl" />
