@@ -2,7 +2,7 @@
     <div class="container">
     	<div class="row m-rl--1">
     		<div class="col-md-6 p-rl-1 p-b-2">
-                  <a href="/article?id=${articles[1][file-name]?replace(".xml", "")!""}">
+                  <a href="/article?id=${articles[1][file-name]}">
                   <div class="bg-img1 size-a-3 how1 pos-relative" style="background-image: url(${articles[1].thumbnailImage!""});">
     				<a href="blog-detail-01.html" class="dis-block how1-child1 trans-03"></a>
     
