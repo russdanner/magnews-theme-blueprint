@@ -74,7 +74,7 @@
     				</div>
     
     				<div class="col-sm-6 p-rl-1 p-b-2">
-    					<div class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url${articles[4].thumbnailImage!""});">
+    					<div class="bg-img1 size-a-5 how1 pos-relative" style="background-image: url(${articles[4].thumbnailImage!""});">
     						<a href="blog-detail-01.html" class="dis-block how1-child1 trans-03"></a>
     
     						<div class="flex-col-e-s s-full p-rl-25 p-tb-20">
