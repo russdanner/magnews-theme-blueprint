@@ -1,4 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
+<#import "/templates/web/components/article-grid.ftl" as articleGrid />
 
 <!DOCTYPE html>
 <html lang="en">
