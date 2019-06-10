@@ -1916,7 +1916,6 @@
 								</div>
 							</li>
 
-<#-- 						
                             <li class="mega-menu-item">
 								<a href="category-01.html">Life Style</a>
 
@@ -2056,7 +2055,6 @@
 									</div>
 								</div>
 							</li>
--->
 							<li class="mega-menu-item">
 								<a href="category-02.html">Video</a>
 
