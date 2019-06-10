@@ -2,7 +2,7 @@
 <#import "/templates/web/components/article-grid.ftl" as articleGrid />
 
 <!DOCTYPE html>
-<html lang="ar"  dir="ltr" >
+<html lang="ar"  dir="rtl" >
 <head>
 	<title>Home 01</title>
     <#include "/templates/web/common/head.ftl" />
