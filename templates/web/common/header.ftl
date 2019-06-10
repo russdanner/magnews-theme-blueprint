@@ -1,5 +1,6 @@
 <#include "/templates/web/navigation/navigation.ftl">
 
+
 	<!-- Header -->
 	<header>
 		<!-- Header desktop -->
@@ -124,7 +125,7 @@
 
 				<ul class="main-menu-m">
 					<li>
-						<a href="index.html">Home</a>
+						<a href="/">Home</a>
 						<ul class="sub-menu-m">
 							<li><a href="index.html">Homepage v1</a></li>
 							<li><a href="home-02.html">Homepage v2</a></li>
@@ -136,26 +137,8 @@
 						</span>
 					</li>
 
-					<li>
-						<a href="category-01.html">News</a>
-					</li>
-
-					<li>
-						<a href="category-02.html">Entertainment </a>
-					</li>
-
-					<li>
-						<a href="category-01.html">Business</a>
-					</li>
-
-					<li>
-						<a href="category-02.html">Travel</a>
-					</li>
-
-					<li>
-						<a href="category-01.html">Life Style</a>
-					</li>
-
+                	<@renderNavigation "/site/website", 1 />
+                	
 					<li>
 						<a href="category-02.html">Video</a>
 					</li>
@@ -184,7 +167,7 @@
 			<div class="wrap-logo container">
 				<!-- Logo desktop -->		
 				<div class="logo">
-					<a href="index.html"><img src="/static-assets/app/images/icons/logo-01.png" alt="LOGO"></a>
+					<a href="/"><img src="/static-assets/app/images/icons/logo-01.png" alt="LOGO"></a>
 				</div>	
 
 				<!-- Banner -->
@@ -198,13 +181,13 @@
 				<div class="main-nav">
 					<!-- Menu desktop -->
 					<nav class="menu-desktop">
-						<a class="logo-stick" href="index.html">
+						<a class="logo-stick" href="/">
 							<img src="/static-assets/app/images/icons/logo-01.png" alt="LOGO">
 						</a>
 
 						<ul class="main-menu">
 							<li class="main-menu-active">
-								<a href="index.html">Home</a>
+								<a href="/">Home</a>
 								<ul class="sub-menu">
 									<li><a href="index.html">Homepage v1</a></li>
 									<li><a href="home-02.html">Homepage v2</a></li>
