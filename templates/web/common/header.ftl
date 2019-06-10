@@ -194,7 +194,7 @@
 									<li><a href="home-03.html">Homepage v3</a></li>
 								</ul>
 							</li>
-<#--
+
 							<li class="mega-menu-item">
 								<a href="category-01.html">News</a>
 
@@ -1916,7 +1916,6 @@
 								</div>
 							</li>
 
-
                             <li class="mega-menu-item">
 								<a href="category-01.html">Life Style</a>
 
@@ -2056,7 +2055,7 @@
 									</div>
 								</div>
 							</li>
-						-->
+							
 							<li class="mega-menu-item">
 								<a href="category-02.html">Video</a>
 
