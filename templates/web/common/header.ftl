@@ -186,15 +186,8 @@
 						</a>
 
 						<ul class="main-menu">
-							<li class="main-menu-active">
-								<a href="/">Home</a>
-								<ul class="sub-menu">
-									<li><a href="index.html">Homepage v1</a></li>
-									<li><a href="home-02.html">Homepage v2</a></li>
-									<li><a href="home-03.html">Homepage v3</a></li>
-								</ul>
-							</li>
-
+							
+                        	<@renderNavigation "/site/website", 1 />
 <!-- MEGA MENU ITEMS WILL GO HERE -->
 
 							<li class="mega-menu-item">
