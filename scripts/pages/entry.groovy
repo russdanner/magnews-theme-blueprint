@@ -25,4 +25,4 @@ def articles = searchHelper.searchArticles(true, null, segment)
 templateModel.articles = articles
 
 templateModel.htmlLanguage = contentModel.htmlLanguage  
-templateModel.htmlDirection contentModel.htmlDirection
+templateModel.htmlDirection = contentModel.htmlDirection
