@@ -166,7 +166,7 @@
 			<!--  -->
 			<div class="wrap-logo container">
 				<!-- Logo desktop -->		
-				<div class="logo">
+				<div class="logo" <@studio.componentAttr path="/site/website/crafter-level-descriptor.level.xml" ice=true />>
 					<a href="/"><img src="/static-assets/app/images/icons/logo-01.png" alt="LOGO"></a>
 				</div>	
 
@@ -182,7 +182,7 @@
 					<!-- Menu desktop -->
 					<nav class="menu-desktop">
 				   	  <a  class="logo-stick" href="/">
-							<img <@studio.componentAttr path="/site/website/crafter-level-descriptor.level.xml" ice=true /> src="/static-assets/app/images/icons/logo-01.png" alt="LOGO">
+							<img src="/static-assets/app/images/icons/logo-01.png" alt="LOGO">
 						</a>
 
 						<ul class="main-menu">
