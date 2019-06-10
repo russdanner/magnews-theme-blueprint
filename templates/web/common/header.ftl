@@ -181,7 +181,7 @@
 				<div class="main-nav">
 					<!-- Menu desktop -->
 					<nav class="menu-desktop">
-						<a class="logo-stick" href="/">
+						<a <@studio.componentAttr path="/site/website/crafter-level-descriptor.level.xml" ice=true /> class="logo-stick" href="/">
 							<img src="/static-assets/app/images/icons/logo-01.png" alt="LOGO">
 						</a>
 
